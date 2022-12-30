@@ -121,6 +121,13 @@
   border-color: #777777;
 }
 
+.telegram .actionBgPane {
+  background: #37a5d7;
+}
+.telegram:hover {
+  border-color: #37a5d7;
+}
+
 .email .actionBgPane {
   background: #777;
 }

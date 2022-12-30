@@ -10,19 +10,20 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Blockchain Technologies course',
+  domain: '',//'nextjs-notion-starter-kit.transitivebullsh.it',
+  author: 'Yerasyl Amanbek',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Blockchain Technologies course',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  //twitter: 'transitive_bs',
+  //github: 'transitive-bullshit',
+  linkedin: 'yerasyl',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
-  // newsletter: '#', // optional newsletter URL
+  //newsletter: '#', // optional newsletter URL
+  telegram: 'https://t.me/aitudao',
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
